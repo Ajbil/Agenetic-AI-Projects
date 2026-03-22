@@ -1,1 +1,3 @@
-Initilize this folder
+ollama launch claude --model minimax-m2.7:cloud
+
+--use this command to use ollama in claude in terminal 
