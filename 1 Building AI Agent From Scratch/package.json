@@ -1,0 +1,18 @@
+{
+  "name": "1-building-ai-agent-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "openai": "^6.32.0",
+    "readline-sync": "^1.4.10"
+  }
+}
